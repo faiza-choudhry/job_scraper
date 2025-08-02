@@ -29,8 +29,9 @@ readable columns.
 - Build a UI to view jobs in real-time
 
 ##  Screenshot
-Add screenshots of your code/output below:
+Add screenshots of your code/input and output below:
 
+![Job Data Input](./input_screenshot.png)
 ![Job Data Output](./output_screenshot.png)
 
 ##  How to Run
